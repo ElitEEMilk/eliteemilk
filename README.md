@@ -65,8 +65,8 @@
 ![Intune](https://img.shields.io/badge/Intune-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 ![Assyst](https://img.shields.io/badge/Assyst-4A90E2?style=flat-square)
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
-![MS Admin](https://img.shields.io/badge/MS_Admin-5E5E5E?style=flat-square&logo=microsoft&logoColor=white)
-![VS Admin](https://img.shields.io/badge/VS_Admin-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
+![MS Admin](https://img.shields.io/badge/MS_Admin_Portal-5E5E5E?style=flat-square&logo=microsoft&logoColor=white)
+![VS Admin](https://img.shields.io/badge/VS_Admin_Portal-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
 ![Adobe Admin](https://img.shields.io/badge/Adobe_Admin-FF0000?style=flat-square&logo=adobe&logoColor=white)
 ![MS Graph](https://img.shields.io/badge/MS_Graph-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
@@ -82,25 +82,25 @@
 
 <!-- Middle Lines -->
 
-<a href="#"><img align="left" width="30%" height="10px" src="Images/SwoopLine_rtl.gif" /></a>
-<a href="#"><img align="left" width="10%" height="10px" src="Images/corner.gif" /></a>
-<a href="#"><img align="right" width="50%" height="10px" src="Images/placeholder.gif" /></a>
-
 <a href="#"><img align="left" width="30%" height="10px" src="Images/SwoopLine2_rtl.gif" /></a>
 <a href="#"><img align="left" width="10%" height="10px" src="Images/corner.gif" /></a>
 <a href="#"><img align="right" width="50%" height="10px" src="Images/placeholder.gif" /></a>
 
+<a href="#"><img align="left" width="30%" height="10px" src="Images/SwoopLine_rtl.gif" /></a>
+<a href="#"><img align="left" width="10%" height="10px" src="Images/corner.gif" /></a>
+<a href="#"><img align="right" width="50%" height="10px" src="Images/placeholder.gif" /></a>
 
-<!--
+<br />
+<br />
 
-Here are some ideas to get you started:
+### Past Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Current Projects
+
+
+<!-- Bottom lines -->
+
+<a href="#"><img align="right" width="10%" height="20px" src="Images/corner.gif" /></a>
+<a href="#"><img align="left" width="90%" height="10px" src="Images/SwoopLine_rtl.gif" /></a>
+<a href="#"><img align="left" width="90%" height="10px" src="Images/SwoopLine2_rtl.gif" /></a>

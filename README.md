@@ -1,10 +1,30 @@
-### Hello 👋, 
+### Hello 👋, my name is Nicholas! 
 
 <a href="#"><img align="left" width="90%" height="10px" src="Images/SwoopLine_ltr.gif" /></a>
 <a href="#"><img align="left" width="90%" height="10px" src="Images/SwoopLine2_ltr.gif" /></a>
 
+<br />
+<br />
+
+- I am a Computer Science Graduate
+- I love to program, game and most importantly make games!
+- I also like to write and hope to complete stories soon.
+- My coding journey began even before I entered highschool.
+- I'm always ready to learn and experiment.
+
+**Personal Details**
+
+- 👨‍🏛 I am a graduate of **Carleton University**.
+- 💻 My Major is **Computer Science**.
+- 🌱 I'm currently learning **Unreal Engine and Godot Engine**. 
+- 🤔 My hobbies are **coding, writing, gaming**.
+- 💼 I am currently looking for employment.
+- 💬 If you have any questions, **feel free to ask me**.
+
+
+<a href="#"><img align="right" width="30%" height="10px" src="Images/SwoopLine2_rtl.gif" /></a><a href="#"><img align="right" width="10%" height="10px" src="Images/SwoopLine2_rtl.gif" /></a>
+
 <!--
-**ElitEEMilk/eliteemilk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

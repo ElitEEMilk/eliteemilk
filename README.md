@@ -28,7 +28,9 @@
 
 <a href="#"><img align="right" width="10%" height="20px" src="Images/placeholder.gif" /></a>
 <a href="#"><img align="right" width="40%" height="10px" src="Images/SwoopLine_rtl.gif" /></a>
+<a href="#"><img align="left" width="50%" height="10px" src="Images/placeholder.gif" /></a>
 <a href="#"><img align="right" width="40%" height="10px" src="Images/SwoopLine2_rtl.gif" /></a>
+<a href="#"><img align="left" width="50%" height="10px" src="Images/placeholder.gif" /></a>
 
 <!--
 

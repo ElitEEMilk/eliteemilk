@@ -1,9 +1,9 @@
 ### Hello 👋, my name is Nicholas! 
 
-
+<img align="right" width="10%" height="20px" src="Images/placeholder.gif" />
 <a href="#"><img align="left" width="90%" height="10px" src="Images/SwoopLine_ltr.gif" /></a>
 <a href="#"><img align="left" width="90%" height="10px" src="Images/SwoopLine2_ltr.gif" /></a>
-<img align="right" width="10%" height="20px" src="Images/placeholder.gif" />
+
 
 <br />
 <br />

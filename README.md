@@ -1,6 +1,6 @@
 ### Hello 👋, 
 
- <a href="#"><img align="left" width="90%" height="10px"  src="SwoopLine.gif" /><img align="right" width="10%" height="10px"  src="SwoopLine.gif" /></a>
+<img align="left" width="90%" height="10px"  src="SwoopLine.gif" /><img align="right" width="10%" height="10px"  src="SwoopLine.gif" />
 <img align="left" width="90%" height="10px"  src="SwoopLine2.gif"/>
 
 <!--

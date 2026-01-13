@@ -7,7 +7,7 @@
 <br />
 <br />
 
-<a href="#"><img align="right" width="10%" height="100px" src="Images/SwoopLine_utd.gif" /></a>
+<a href="#"><img align="right" width="10%" height="900px" src="Images/SwoopLine_utd.gif" /></a>
 <a href="#"><img align="right" width="10%" height="100px" src="Images/SwoopLine2_utd.gif" /></a>
 
 - I am a Computer Science Graduate

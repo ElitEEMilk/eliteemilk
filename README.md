@@ -2,7 +2,7 @@
 
 <!-- Top lines -->
 
-<a href="#"><img align="right" width="10%" height="20px" src="Images/placeholder.gif" /></a>
+<a href="#"><img align="right" width="10%" height="20px" src="Images/corner.gif" /></a>
 <a href="#"><img align="left" width="90%" height="10px" src="Images/SwoopLine_ltr.gif" /></a>
 <a href="#"><img align="left" width="90%" height="10px" src="Images/SwoopLine2_ltr.gif" /></a>
 
@@ -28,7 +28,7 @@
 
 <!-- Corner Tile -->
 
-<a href="#"><img align="right" width="10%" height="20px" src="Images/placeholder.gif" /></a>
+<a href="#"><img align="right" width="10%" height="20px" src="Images/corner.gif" /></a>
 
 <!-- Middle Lines -->
 

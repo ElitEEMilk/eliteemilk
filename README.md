@@ -40,7 +40,7 @@
 <a href="#"><img align="right" width="10%" height="10px" src="Images/corner.gif" /></a>
 <a href="#"><img align="left" width="50%" height="40px" src="Images/placeholder.gif" /></a>
 
-### 💻 Languages Used
+**💻 Languages Used**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -60,7 +60,7 @@
 ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=flat-square&logo=haskell&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white)
 
-### 🛠️ Platforms Used
+**🛠️ Platforms Used**
 
 ![Intune](https://img.shields.io/badge/Intune-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 ![Assyst](https://img.shields.io/badge/Assyst-4A90E2?style=flat-square)

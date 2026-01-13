@@ -22,7 +22,8 @@
 - 💬 If you have any questions, **feel free to ask me**.
 
 
-<a href="#"><img align="right" width="30%" height="10px" src="Images/SwoopLine2_rtl.gif" /></a><a href="#"><img align="right" width="10%" height="10px" src="Images/SwoopLine2_rtl.gif" /></a>
+<a href="#"><img align="right" width="10%" height="10px" src="Images/SwoopLine2_rtl.gif" /></a>
+<a href="#"><img align="right" width="30%" height="10px" src="Images/SwoopLine2_rtl.gif" /></a>
 
 <!--
 

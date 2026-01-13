@@ -40,7 +40,7 @@
 <a href="#"><img align="right" width="10%" height="10px" src="Images/corner.gif" /></a>
 <a href="#"><img align="left" width="50%" height="40px" src="Images/placeholder.gif" /></a>
 
-<table width="100%">
+<table style="width: 100%;">
   <tr>
     <th>Languages Used</th>
     <th>Platforms Used</th>

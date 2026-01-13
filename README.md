@@ -34,11 +34,12 @@
 
 <a href="#"><img align="right" width="30%" height="10px" src="Images/SwoopLine_rtl.gif" /></a>
 <a href="#"><img align="right" width="10%" height="10px" src="Images/corner.gif" /></a>
+<a href="#"><img align="left" width="50%" height="40px" src="Images/placeholder.gif" /></a>
 
 <a href="#"><img align="right" width="30%" height="10px" src="Images/SwoopLine2_rtl.gif" /></a>
 <a href="#"><img align="right" width="10%" height="10px" src="Images/corner.gif" /></a>
+<a href="#"><img align="left" width="50%" height="40px" src="Images/placeholder.gif" /></a>
 
-**Languages Used**
 ### 💻 Languages Used
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -59,7 +60,6 @@
 ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=flat-square&logo=haskell&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white)
 
-**Platforms Used**
 ### 🛠️ Platforms Used
 
 ![Intune](https://img.shields.io/badge/Intune-0078D4?style=flat-square&logo=microsoft&logoColor=white)
@@ -74,6 +74,21 @@
 ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot_Engine-478CBF?style=flat-square&logo=godotengine&logoColor=white)
+
+<!-- Corner Tile -->
+
+<a href="#"><img align="left" width="10%" height="20px" src="Images/corner.gif" /></a>
+
+<!-- Middle Lines -->
+
+<a href="#"><img align="left" width="30%" height="10px" src="Images/SwoopLine_rtl.gif" /></a>
+<a href="#"><img align="left" width="10%" height="10px" src="Images/corner.gif" /></a>
+<a href="#"><img align="right" width="50%" height="40px" src="Images/placeholder.gif" /></a>
+
+<a href="#"><img align="left" width="30%" height="10px" src="Images/SwoopLine2_rtl.gif" /></a>
+<a href="#"><img align="left" width="10%" height="10px" src="Images/corner.gif" /></a>
+<a href="#"><img align="right" width="50%" height="40px" src="Images/placeholder.gif" /></a>
+
 
 <!--
 

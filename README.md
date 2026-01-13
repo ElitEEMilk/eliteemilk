@@ -1,8 +1,7 @@
 ### Hello 👋, 
 
  <a href="#"><img align="left" width="90%" height="10px"  src="SwoopLine.gif" /><img align="right" width="10%" height="10px"  src="SwoopLine.gif" /></a>
-
- <a href="#"><img align="left" width="90%" height="10px"  src="SwoopLine2.gif"/></a>
+<img align="left" width="90%" height="10px"  src="SwoopLine2.gif"/>
 
 <!--
 **ElitEEMilk/eliteemilk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

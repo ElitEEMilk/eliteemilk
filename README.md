@@ -1,10 +1,14 @@
 ### Hello 👋, my name is Nicholas! 
 
+<a href="#"><img align="right" width="10%" height="20px" src="Images/placeholder.gif" /></a>
 <a href="#"><img align="left" width="90%" height="10px" src="Images/SwoopLine_ltr.gif" /></a>
 <a href="#"><img align="left" width="90%" height="10px" src="Images/SwoopLine2_ltr.gif" /></a>
 
 <br />
 <br />
+
+<a href="#"><img align="right" width="10%" height="100px" src="Images/SwoopLine_utd.gif" /></a>
+<a href="#"><img align="right" width="10%" height="100px" src="Images/SwoopLine2_utd.gif" /></a>
 
 - I am a Computer Science Graduate
 - I love to program, game and most importantly make games!
@@ -21,7 +25,7 @@
 - 💼 I am currently looking for employment.
 - 💬 If you have any questions, **feel free to ask me**.
 
-
+<a href="#"><img align="right" width="10%" height="20px" src="Images/placeholder.gif" /></a>
 <a href="#"><img align="right" width="10%" height="10px" src="Images/SwoopLine2_rtl.gif" /></a>
 <a href="#"><img align="right" width="30%" height="10px" src="Images/SwoopLine2_rtl.gif" /></a>
 

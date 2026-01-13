@@ -1,6 +1,6 @@
 ### Hello 👋, 
 
- <img align="right" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg" />
+ <img align="left" width="100%" src="SwoopLine.gif" />
 </a>
 <!--
 **ElitEEMilk/eliteemilk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

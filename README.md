@@ -26,11 +26,6 @@
 - 💼 I am currently looking for employment.
 - 💬 If you have any questions, **feel free to ask me**.
 
-<!-- Padding Left -->
-
-<a href="#"><img align="left" width="50%" height="10px" src="Images/placeholder.gif" /></a>
-<a href="#"><img align="left" width="50%" height="10px" src="Images/placeholder.gif" /></a>
-
 <!-- Corner Tile -->
 
 <a href="#"><img align="right" width="10%" height="20px" src="Images/placeholder.gif" /></a>
@@ -38,7 +33,9 @@
 <!-- Middle Lines -->
 
 <a href="#"><img align="right" width="30%" height="10px" src="Images/SwoopLine_rtl.gif" /></a>
+<a href="#"><img align="left" width="50%" height="10px" src="Images/placeholder.gif" /></a>
 <a href="#"><img align="right" width="30%" height="10px" src="Images/SwoopLine2_rtl.gif" /></a>
+<a href="#"><img align="left" width="50%" height="10px" src="Images/placeholder.gif" /></a>
 
 <!--
 

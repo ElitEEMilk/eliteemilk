@@ -1,12 +1,12 @@
 ### Hello 👋, my name is Nicholas! 
 
-<img align="right" width="10%" height="20px" src="Images/placeholder.gif" />
+<!-- Top lines -->
+
+<a href="#"><img align="right" width="10%" height="20px" src="Images/placeholder.gif" /></a>
 <a href="#"><img align="left" width="90%" height="10px" src="Images/SwoopLine_ltr.gif" /></a>
 <a href="#"><img align="left" width="90%" height="10px" src="Images/SwoopLine2_ltr.gif" /></a>
 
-
-<br />
-<br />
+<!-- Verticle lines -->
 
 <a href="#"><img align="right" width="5%" height="30%" src="Images/SwoopLine_utd.gif" /></a>
 <a href="#"><img align="right" width="5%" height="100px" src="Images/SwoopLine2_utd.gif" /></a>

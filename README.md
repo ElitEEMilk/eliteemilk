@@ -2,9 +2,9 @@
 
 <!-- Top lines -->
 
-<a href="#"><img align="right" width="10%" height="50px" src="Images/corner.gif" /></a>
-<a href="#"><img align="left" width="90%" height="25px" src="Images/SwoopLine_ltr.gif" /></a>
-<a href="#"><img align="left" width="90%" height="25px" src="Images/SwoopLine2_ltr.gif" /></a>
+<a href="#"><img align="right" width="10%" height="80px" src="Images/corner.gif" /></a>
+<a href="#"><img align="left" width="90%" height="10px" src="Images/SwoopLine_ltr.gif" /></a>
+<a href="#"><img align="left" width="90%" height="10px" src="Images/SwoopLine2_ltr.gif" /></a>
 
 <!-- Verticle lines -->
 
@@ -28,17 +28,17 @@
 
 <!-- Corner Tile -->
 
-<a href="#"><img align="right" width="10%" height="20px" src="Images/corner.gif" /></a>
+<a href="#"><img align="right" width="10%" height="80px" src="Images/corner.gif" /></a>
 
 <!-- Middle Lines -->
 
 <a href="#"><img align="right" width="30%" height="10px" src="Images/SwoopLine_rtl.gif" /></a>
-<a href="#"><img align="right" width="10%" height="10px" src="Images/placeholder.gif" /></a>
-<a href="#"><img align="left" width="50%" height="10px" src="Images/placeholder.gif" /></a>
+<a href="#"><img align="right" width="10%" height="10px" src="Images/corner.gif" /></a>
+<a href="#"><img align="left" width="50%" height="40px" src="Images/placeholder.gif" /></a>
 
 <a href="#"><img align="right" width="30%" height="10px" src="Images/SwoopLine2_rtl.gif" /></a>
-<a href="#"><img align="right" width="10%" height="10px" src="Images/placeholder.gif" /></a>
-<a href="#"><img align="left" width="50%" height="10px" src="Images/placeholder.gif" /></a>
+<a href="#"><img align="right" width="10%" height="10px" src="Images/corner.gif" /></a>
+<a href="#"><img align="left" width="50%" height="40px" src="Images/placeholder.gif" /></a>
 
 <!--
 

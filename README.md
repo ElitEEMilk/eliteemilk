@@ -40,9 +40,13 @@
 <a href="#"><img align="right" width="10%" height="10px" src="Images/corner.gif" /></a>
 <a href="#"><img align="left" width="50%" height="40px" src="Images/placeholder.gif" /></a>
 
+<div style="width: 100%;">
+
 | Languages Used | Platforms Used |
 |    :----:   |    :----:     |
 | Header      | Here's this   |
+
+</div>
 
 <!--
 

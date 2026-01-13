@@ -3,8 +3,8 @@
 <!-- Top lines -->
 
 <a href="#"><img align="right" width="10%" height="20px" src="Images/corner.gif" /></a>
-<a href="#"><img align="left" width="90%" height="10px" src="Images/SwoopLine_ltr.gif" /></a>
-<a href="#"><img align="left" width="90%" height="10px" src="Images/SwoopLine2_ltr.gif" /></a>
+<a href="#"><img align="left" width="90%" height="10px" src="Images/red.gif" /></a>
+<a href="#"><img align="left" width="90%" height="10px" src="Images/white.gif" /></a>
 
 <!-- Verticle lines 
 
@@ -32,13 +32,13 @@
 
 <!-- Middle Lines -->
 
-<a href="#"><img align="right" width="30%" height="10px" src="Images/SwoopLine_rtl.gif" /></a>
+<a href="#"><img align="right" width="30%" height="10px" src="Images/red_rtl.gif" /></a>
 <a href="#"><img align="right" width="10%" height="10px" src="Images/corner.gif" /></a>
-<a href="#"><img align="left" width="50%" height="10px" src="Images/placeholder.gif" /></a>
+<a href="#"><img align="left" width="50%" height="10px" src="Images/blank.gif" /></a>
 
-<a href="#"><img align="right" width="30%" height="10px" src="Images/SwoopLine2_rtl.gif" /></a>
+<a href="#"><img align="right" width="30%" height="10px" src="Images/red2_rtl.gif" /></a>
 <a href="#"><img align="right" width="10%" height="10px" src="Images/corner.gif" /></a>
-<a href="#"><img align="left" width="50%" height="10px" src="Images/placeholder.gif" /></a>
+<a href="#"><img align="left" width="50%" height="10px" src="Images/blank.gif" /></a>
 
 **💻 Languages Used**
 
@@ -82,25 +82,32 @@
 
 <!-- Middle Lines -->
 
-<a href="#"><img align="left" width="30%" height="10px" src="Images/SwoopLine2_rtl.gif" /></a>
+<a href="#"><img align="left" width="30%" height="10px" src="Images/red2_rtl.gif" /></a>
 <a href="#"><img align="left" width="10%" height="10px" src="Images/corner.gif" /></a>
-<a href="#"><img align="right" width="50%" height="10px" src="Images/placeholder.gif" /></a>
+<a href="#"><img align="right" width="50%" height="10px" src="Images/blank.gif" /></a>
 
-<a href="#"><img align="left" width="30%" height="10px" src="Images/SwoopLine_rtl.gif" /></a>
+<a href="#"><img align="left" width="30%" height="10px" src="Images/red_rtl.gif" /></a>
 <a href="#"><img align="left" width="10%" height="10px" src="Images/corner.gif" /></a>
-<a href="#"><img align="right" width="50%" height="10px" src="Images/placeholder.gif" /></a>
+<a href="#"><img align="right" width="50%" height="10px" src="Images/blank.gif" /></a>
 
 <br />
 <br />
-
-### Past Projects
-
 
 ### Current Projects
 
 
+
+### Past Projects
+
+
+
+
+
+<br />
+<br />
+
 <!-- Bottom lines -->
 
 <a href="#"><img align="right" width="10%" height="20px" src="Images/corner.gif" /></a>
-<a href="#"><img align="left" width="90%" height="10px" src="Images/SwoopLine_rtl.gif" /></a>
-<a href="#"><img align="left" width="90%" height="10px" src="Images/SwoopLine2_rtl.gif" /></a>
+<a href="#"><img align="left" width="90%" height="10px" src="Images/red_rtl.gif" /></a>
+<a href="#"><img align="left" width="90%" height="10px" src="Images/red2_rtl.gif" /></a>

@@ -4,7 +4,7 @@
 
 <a href="#"><img align="right" width="10%" height="20px" src="Images/corner.gif" /></a>
 <a href="#"><img align="left" width="90%" height="10px" src="Images/red.gif" /></a>
-<a href="#"><img align="left" width="90%" height="10px" src="Images/white.gif" /></a>
+<a href="#"><img align="left" width="90%" height="10px" src="Images/gray.gif" /></a>
 
 <!-- Verticle lines 
 
@@ -26,19 +26,17 @@
 - 💼 I am currently looking for employment.
 - 💬 If you have any questions, **feel free to ask me**.
 
-<!-- Corner Tile -->
-
-<a href="#"><img align="right" width="10%" height="20px" src="Images/corner.gif" /></a>
-
 <!-- Middle Lines -->
-
-<a href="#"><img align="right" width="30%" height="10px" src="Images/red_rtl.gif" /></a>
+<a href="#"><img align="right" width="10%" height="20px" src="Images/corner.gif" /></a>
+<a href="#"><img align="right" width="30%" height="10px" src="Images/gray_rtl.gif" /></a>
 <a href="#"><img align="right" width="10%" height="10px" src="Images/corner.gif" /></a>
 <a href="#"><img align="left" width="50%" height="10px" src="Images/blank.gif" /></a>
-
 <a href="#"><img align="right" width="30%" height="10px" src="Images/red2_rtl.gif" /></a>
 <a href="#"><img align="right" width="10%" height="10px" src="Images/corner.gif" /></a>
 <a href="#"><img align="left" width="50%" height="10px" src="Images/blank.gif" /></a>
+
+<br />
+
 
 **💻 Languages Used**
 
@@ -47,6 +45,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -64,6 +63,8 @@
 
 ![Intune](https://img.shields.io/badge/Intune-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 ![Assyst](https://img.shields.io/badge/Assyst-4A90E2?style=flat-square)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
 ![MS Admin](https://img.shields.io/badge/MS_Admin_Portal-5E5E5E?style=flat-square&logo=microsoft&logoColor=white)
 ![VS Admin](https://img.shields.io/badge/VS_Admin_Portal-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
@@ -76,38 +77,65 @@
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot_Engine-478CBF?style=flat-square&logo=godotengine&logoColor=white)
 
-<!-- Corner Tile -->
-
-<a href="#"><img align="left" width="10%" height="20px" src="Images/corner.gif" /></a>
-
 <!-- Middle Lines -->
-
-<a href="#"><img align="left" width="30%" height="10px" src="Images/red2_rtl.gif" /></a>
-<a href="#"><img align="left" width="10%" height="10px" src="Images/corner.gif" /></a>
-<a href="#"><img align="right" width="50%" height="10px" src="Images/blank.gif" /></a>
-
+<a href="#"><img align="left" width="10%" height="20px" src="Images/corner.gif" /></a>
 <a href="#"><img align="left" width="30%" height="10px" src="Images/red_rtl.gif" /></a>
 <a href="#"><img align="left" width="10%" height="10px" src="Images/corner.gif" /></a>
 <a href="#"><img align="right" width="50%" height="10px" src="Images/blank.gif" /></a>
+<a href="#"><img align="left" width="30%" height="10px" src="Images/gray_rtl.gif" /></a>
+<a href="#"><img align="left" width="10%" height="10px" src="Images/corner.gif" /></a>
+<a href="#"><img align="right" width="50%" height="10px" src="Images/blank.gif" /></a>
 
 <br />
 <br />
 
-### Current Projects
+**Current Projects**
 
+- 
 
+**Past Projects**
 
-### Past Projects
+To be filled(Importing old projects)
 
-
-
-
+<!-- Middle Lines -->
+<a href="#"><img align="left" width="10%" height="20px" src="Images/corner.gif" /></a>
+<a href="#"><img align="left" width="30%" height="10px" src="Images/red.gif" /></a>
+<a href="#"><img align="left" width="10%" height="10px" src="Images/corner.gif" /></a>
+<a href="#"><img align="right" width="50%" height="10px" src="Images/blank.gif" /></a>
+<a href="#"><img align="left" width="30%" height="10px" src="Images/gray.gif" /></a>
+<a href="#"><img align="left" width="10%" height="10px" src="Images/corner.gif" /></a>
+<a href="#"><img align="right" width="50%" height="10px" src="Images/blank.gif" /></a>
 
 <br />
+<br />
+
+<div align="center">
+    <a href='https://www.linkedin.com/in/nicholas-faubert-4b3113225/'><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+    <a href='mailto:nicholasf.work@gmail.com'><img alt="email" src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+    <a href='https://steamcommunity.com/id/ElitEEMilk/'><img alt="steam" src="https://img.shields.io/badge/Steam-000000?style=flat-square&logo=steam&logoColor=white"/></a>
+</div>
+
+<br/>
+
+<!-- Middle Lines -->
+<a href="#"><img align="right" width="10%" height="20px" src="Images/corner.gif" /></a>
+<a href="#"><img align="right" width="30%" height="10px" src="Images/gray.gif" /></a>
+<a href="#"><img align="right" width="10%" height="10px" src="Images/corner.gif" /></a>
+<a href="#"><img align="left" width="50%" height="10px" src="Images/blank.gif" /></a>
+<a href="#"><img align="right" width="30%" height="10px" src="Images/red2.gif" /></a>
+<a href="#"><img align="right" width="10%" height="10px" src="Images/corner.gif" /></a>
+<a href="#"><img align="left" width="50%" height="10px" src="Images/blank.gif" /></a>
+
+<br />
+
+**Currently Learning**
+
+- ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white): I am hoping to learn this game engine along side what I have already learned through my game development study.
+- ![Godot](https://img.shields.io/badge/Godot_Engine-478CBF?style=flat-square&logo=godotengine&logoColor=white): Although I have had experience working in Godot, I will only consider myself completely experienced once I fully release a game made in the engine.
+
 <br />
 
 <!-- Bottom lines -->
-
 <a href="#"><img align="right" width="10%" height="20px" src="Images/corner.gif" /></a>
-<a href="#"><img align="left" width="90%" height="10px" src="Images/red_rtl.gif" /></a>
+<a href="#"><img align="left" width="90%" height="10px" src="Images/gray_rtl.gif" /></a>
 <a href="#"><img align="left" width="90%" height="10px" src="Images/red2_rtl.gif" /></a>

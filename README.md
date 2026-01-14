@@ -94,20 +94,36 @@
 <blockquote>
 <dl>
     <dt><i><b>Mod-iffy</b></i></dt>
-    <dd>GameDev. First Person Roguelike. <img alt="linkedin" src="https://img.shields.io/badge/Godot_Engine-478CBF?style=flat-square&logo=godotengine&logoColor=white" height="16px"/></dd>
+    <dd>GameDev. First Person Roguelike. <img alt="godotengine" src="https://img.shields.io/badge/Godot_Engine-478CBF?style=flat-square&logo=godotengine&logoColor=white" height="16px"/></dd>
     <dt><i><b>Obscura</b></i></dt>
-    <dd>GameDev. First Person Story. <img alt="linkedin" src="https://img.shields.io/badge/Godot_Engine-478CBF?style=flat-square&logo=godotengine&logoColor=white" height="16px"/></dd>
+    <dd>GameDev. First Person Story. <img alt="godotengine" src="https://img.shields.io/badge/Godot_Engine-478CBF?style=flat-square&logo=godotengine&logoColor=white" height="16px"/></dd>
     <dt><i>Untitled Project</i></dt>
-    <dd>GameDev. Testing Mechanics. <img alt="linkedin" src="https://img.shields.io/badge/Godot_Engine-478CBF?style=flat-square&logo=godotengine&logoColor=white" height="16px"/></dd>
+    <dd>GameDev. Testing Mechanics. <img alt="godotengine" src="https://img.shields.io/badge/Godot_Engine-478CBF?style=flat-square&logo=godotengine&logoColor=white" height="16px"/></dd>
 </dl>
 </blockquote>
 
 ### Past Projects
 
-<dl style="margin-left: 40px;">
+<blockquote>
+<dl>
+    <dt>More to Populate</dt>
+    <dd>--</dd>
     <dt></dt>
     <dd></dd>
+    <dt></dt>
+    <dd></dd>
+    <dt></dt>
+    <dd></dd>
+    <dt></dt>
+    <dd></dd>
+    <dt><i><b>Community Fridge Website</b></i></dt>
+    <dd>Final Assignment - [COMP 2406 Project]</dd>
+    <dd><i>Private</i> - Not Available</dd>
+    <dt><i><b>A motorbike 'Shmup'</b></i></dt>
+    <dd>"The Way of Blood" - [COMP 2501 Group Project] <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" height="16px"/></dd>
+    <dd><i>Public</i> - <a href="https://github.com/gabrielmartell/The-Way-Of-Blood">Repo. available</a></dd>
 </dl>
+</blockquote>
 
 <!-- Middle Lines -->
 <a href="#"><img align="left" width="10%" height="20px" src="Images/corner.gif" /></a>

@@ -88,22 +88,26 @@
 <a href="#"><img align="right" width="50%" height="10px" src="Images/blank.gif" /></a>
 
 <br />
-<br />
 
-**Current Projects**
+### Current Projects
+
+<blockquote>
+<dl>
+    <dt><i><b>Mod-iffy</b></i></dt>
+    <dd>GameDev. First Person Roguelike. <img alt="linkedin" src="https://img.shields.io/badge/Godot_Engine-478CBF?style=flat-square&logo=godotengine&logoColor=white" height="16px"/></dd>
+    <dt><i><b>Obscura</b></i></dt>
+    <dd>GameDev. First Person Story. <img alt="linkedin" src="https://img.shields.io/badge/Godot_Engine-478CBF?style=flat-square&logo=godotengine&logoColor=white" height="16px"/></dd>
+    <dt><i>Untitled Project</i></dt>
+    <dd>GameDev. Testing Mechanics. <img alt="linkedin" src="https://img.shields.io/badge/Godot_Engine-478CBF?style=flat-square&logo=godotengine&logoColor=white" height="16px"/></dd>
+</dl>
+</blockquote>
+
+### Past Projects
 
 <dl style="margin-left: 40px;">
-    <dt><i><b>Mod-iffy</b></i></dt>
-    <dd>GameDev. First Person Roguelike. <img alt="linkedin" src="https://img.shields.io/badge/Godot_Engine-478CBF?style=flat-square&logo=godotengine&logoColor=white" height="13px"/></dd>
-    <dt><i><b>Obscura</b></i></dt>
-    <dd>GameDev. First Person Story. <img alt="linkedin" src="https://img.shields.io/badge/Godot_Engine-478CBF?style=flat-square&logo=godotengine&logoColor=white" height="13px"/></dd>
-    <dt><i>Untitled Project</i></dt>
-    <dd>GameDev. Testing Mechanics. <img alt="linkedin" src="https://img.shields.io/badge/Godot_Engine-478CBF?style=flat-square&logo=godotengine&logoColor=white" height="13px"/></dd>
+    <dt></dt>
+    <dd></dd>
 </dl>
-
-**Past Projects**
-
-To be filled(Importing old projects)
 
 <!-- Middle Lines -->
 <a href="#"><img align="left" width="10%" height="20px" src="Images/corner.gif" /></a>
@@ -138,8 +142,8 @@ To be filled(Importing old projects)
 
 **Currently Learning**
 
-- ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white): I am hoping to learn this game engine along side what I have already learned through my game development study.
-- ![Godot](https://img.shields.io/badge/Godot_Engine-478CBF?style=flat-square&logo=godotengine&logoColor=white): Although I have had experience working in Godot, I will only consider myself completely experienced once I fully release a game made in the engine.
+- <img alt="linkedin" src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white" height="17px"/> : I am hoping to learn this game engine along side what I have already learned through my game development study.
+- <img alt="linkedin" src="https://img.shields.io/badge/Godot_Engine-478CBF?style=flat-square&logo=godotengine&logoColor=white" height="17px"/> : Although I have had experience working in Godot, I will only consider myself completely experienced once I fully release a game made in the engine.
 
 <br />
 

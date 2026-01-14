@@ -2,11 +2,9 @@
 
 <!-- Top lines -->
 
-<a href="#">
-    <img align="right" width="10%" height="20px" src="Images/corner.gif" />
-    <img align="left" width="90%" height="10px" src="Images/red.gif" />
-    <img align="left" width="90%" height="10px" src="Images/gray.gif" />
-</a>
+<a href="#"><img align="right" width="10%" height="20px" src="Images/corner.gif" /></a>
+<a href="#"><img align="left" width="90%" height="10px" src="Images/red.gif" /></a>
+<a href="#"><img align="left" width="90%" height="10px" src="Images/gray.gif" /></a>
 
 <br />
 
@@ -26,15 +24,13 @@
 - 💬 If you have any questions, **feel free to ask me**.
 
 <!-- Middle Lines -->
-<a href="#">
-    <img align="right" width="10%" height="20px" src="Images/corner.gif" />
-    <img align="right" width="30%" height="10px" src="Images/gray_rtl.gif" />
-    <img align="right" width="10%" height="10px" src="Images/corner.gif" />
-    <img align="left" width="50%" height="10px" src="Images/blank.gif" />
-    <img align="right" width="30%" height="10px" src="Images/red2_rtl.gif" />
-    <img align="right" width="10%" height="10px" src="Images/corner.gif" />
-    <img align="left" width="50%" height="10px" src="Images/blank.gif" />
-</a>
+<a href="#"><img align="right" width="10%" height="20px" src="Images/corner.gif" /></a>
+<a href="#"><img align="right" width="30%" height="10px" src="Images/gray_rtl.gif" /></a>
+<a href="#"><img align="right" width="10%" height="10px" src="Images/corner.gif" /></a>
+<a href="#"><img align="left" width="50%" height="10px" src="Images/blank.gif" /></a>
+<a href="#"><img align="right" width="30%" height="10px" src="Images/red2_rtl.gif" /></a>
+<a href="#"><img align="right" width="10%" height="10px" src="Images/corner.gif" /></a>
+<a href="#"><img align="left" width="50%" height="10px" src="Images/blank.gif" /></a>
 
 <br />
 
@@ -79,15 +75,13 @@
 ![Godot](https://img.shields.io/badge/Godot_Engine-478CBF?style=flat-square&logo=godotengine&logoColor=white)
 
 <!-- Middle Lines -->
-<a href="#">
-    <img align="left" width="10%" height="20px" src="Images/corner.gif" />
-    <img align="left" width="30%" height="10px" src="Images/red_rtl.gif" />
-    <img align="left" width="10%" height="10px" src="Images/corner.gif" />
-    <img align="right" width="50%" height="10px" src="Images/blank.gif" />
-    <img align="left" width="30%" height="10px" src="Images/gray_rtl.gif" />
-    <img align="left" width="10%" height="10px" src="Images/corner.gif" />
-    <img align="right" width="50%" height="10px" src="Images/blank.gif" />
-</a>
+<a href="#"><img align="left" width="10%" height="20px" src="Images/corner.gif" /></a>
+<a href="#"><img align="left" width="30%" height="10px" src="Images/red_rtl.gif" /></a>
+<a href="#"><img align="left" width="10%" height="10px" src="Images/corner.gif" /></a>
+<a href="#"><img align="right" width="50%" height="10px" src="Images/blank.gif" /></a>
+<a href="#"><img align="left" width="30%" height="10px" src="Images/gray_rtl.gif" /></a>
+<a href="#"><img align="left" width="10%" height="10px" src="Images/corner.gif" /></a>
+<a href="#"><img align="right" width="50%" height="10px" src="Images/blank.gif" /></a>
 
 <br />
 
@@ -123,6 +117,9 @@
     <dt><i><b>Survival, stealthy 'horror'</b></i></dt>
     <dd>"The Hungry Man" - [COMP 3501 Group Project] <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" height="16px"/></dd>
     <dd><i>Public</i> - <a href="https://github.com/gabrielmartell/COMP3501-Project">Repo. Available</a></dd>
+    <dt>Battleship AI Agent</dt>
+    <dd>"Model Based Agent in a changing battlehship environment" - [COMP 3106 Group Project]</dd>
+    <dd><i>Private</i> - Not Available</dd>
     <dt><i><b>SQL Database</b></i></dt>
     <dd>"SteamDB Console System" - [COMP 3005 Project] <img alt="Sqlite" src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" height="16px"/></dd>
     <dd><i>Private</i> - Not Available</dd>
@@ -162,15 +159,13 @@
 <br/>
 
 <!-- Middle Lines -->
-<a href="#">
-    <img align="right" width="10%" height="20px" src="Images/corner.gif" />
-    <img align="right" width="30%" height="10px" src="Images/gray.gif" />
-    <img align="right" width="10%" height="10px" src="Images/corner.gif" />
-    <img align="left" width="50%" height="10px" src="Images/blank.gif" />
-    <img align="right" width="30%" height="10px" src="Images/red2.gif" />
-    <img align="right" width="10%" height="10px" src="Images/corner.gif" />
-    <img align="left" width="50%" height="10px" src="Images/blank.gif" />
-</a>
+<a href="#"><img align="right" width="10%" height="20px" src="Images/corner.gif" /></a>
+<a href="#"><img align="right" width="30%" height="10px" src="Images/gray.gif" /></a>
+<a href="#"><img align="right" width="10%" height="10px" src="Images/corner.gif" /></a>
+<a href="#"><img align="left" width="50%" height="10px" src="Images/blank.gif" /></a>
+<a href="#"><img align="right" width="30%" height="10px" src="Images/red2.gif" /></a>
+<a href="#"><img align="right" width="10%" height="10px" src="Images/corner.gif" /></a>
+<a href="#"><img align="left" width="50%" height="10px" src="Images/blank.gif" /></a>
 
 <br />
 
@@ -182,8 +177,6 @@
 <br />
 
 <!-- Bottom lines -->
-<a href="#">
-    <img align="right" width="10%" height="20px" src="Images/corner.gif" />
-    <img align="left" width="90%" height="10px" src="Images/gray_rtl.gif" />
-    <img align="left" width="90%" height="10px" src="Images/red2_rtl.gif" />
-</a>
+<a href="#"><img align="right" width="10%" height="20px" src="Images/corner.gif" /></a>
+<a href="#"><img align="left" width="90%" height="10px" src="Images/gray_rtl.gif" /></a>
+<a href="#"><img align="left" width="90%" height="10px" src="Images/red2_rtl.gif" /></a>

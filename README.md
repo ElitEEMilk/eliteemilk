@@ -25,12 +25,12 @@
 
 <!-- Middle Lines -->
 <a href="#"><img align="right" width="10%" height="20px" src="Images/corner.gif" /></a>
-<a href="#"><img align="right" width="30%" height="10px" src="Images/gray_rtl.gif" /></a>
+<a href="#"><img align="right" width="35%" height="10px" src="Images/gray_rtl.gif" /></a>
 <a href="#"><img align="right" width="10%" height="10px" src="Images/corner.gif" /></a>
-<a href="#"><img align="left" width="50%" height="10px" src="Images/blank.gif" /></a>
-<a href="#"><img align="right" width="30%" height="10px" src="Images/red2_rtl.gif" /></a>
+<a href="#"><img align="left" width="45%" height="10px" src="Images/blank.gif" /></a>
+<a href="#"><img align="right" width="35%" height="10px" src="Images/red2_rtl.gif" /></a>
 <a href="#"><img align="right" width="10%" height="10px" src="Images/corner.gif" /></a>
-<a href="#"><img align="left" width="50%" height="10px" src="Images/blank.gif" /></a>
+<a href="#"><img align="left" width="45%" height="10px" src="Images/blank.gif" /></a>
 
 <br />
 
@@ -76,12 +76,12 @@
 
 <!-- Middle Lines -->
 <a href="#"><img align="left" width="10%" height="20px" src="Images/corner.gif" /></a>
-<a href="#"><img align="left" width="30%" height="10px" src="Images/red_rtl.gif" /></a>
+<a href="#"><img align="left" width="35%" height="10px" src="Images/red_rtl.gif" /></a>
 <a href="#"><img align="left" width="10%" height="10px" src="Images/corner.gif" /></a>
-<a href="#"><img align="right" width="50%" height="10px" src="Images/blank.gif" /></a>
-<a href="#"><img align="left" width="30%" height="10px" src="Images/gray_rtl.gif" /></a>
+<a href="#"><img align="right" width="45%" height="10px" src="Images/blank.gif" /></a>
+<a href="#"><img align="left" width="35%" height="10px" src="Images/gray_rtl.gif" /></a>
 <a href="#"><img align="left" width="10%" height="10px" src="Images/corner.gif" /></a>
-<a href="#"><img align="right" width="50%" height="10px" src="Images/blank.gif" /></a>
+<a href="#"><img align="right" width="45%" height="10px" src="Images/blank.gif" /></a>
 
 <br />
 
@@ -140,12 +140,12 @@
 
 <!-- Middle Lines -->
 <a href="#"><img align="left" width="10%" height="20px" src="Images/corner.gif" /></a>
-<a href="#"><img align="left" width="30%" height="10px" src="Images/red.gif" /></a>
+<a href="#"><img align="left" width="35%" height="10px" src="Images/red.gif" /></a>
 <a href="#"><img align="left" width="10%" height="10px" src="Images/corner.gif" /></a>
-<a href="#"><img align="right" width="50%" height="10px" src="Images/blank.gif" /></a>
-<a href="#"><img align="left" width="30%" height="10px" src="Images/gray.gif" /></a>
+<a href="#"><img align="right" width="45%" height="10px" src="Images/blank.gif" /></a>
+<a href="#"><img align="left" width="35%" height="10px" src="Images/gray.gif" /></a>
 <a href="#"><img align="left" width="10%" height="10px" src="Images/corner.gif" /></a>
-<a href="#"><img align="right" width="50%" height="10px" src="Images/blank.gif" /></a>
+<a href="#"><img align="right" width="45%" height="10px" src="Images/blank.gif" /></a>
 
 <br />
 <br />
@@ -160,12 +160,12 @@
 
 <!-- Middle Lines -->
 <a href="#"><img align="right" width="10%" height="20px" src="Images/corner.gif" /></a>
-<a href="#"><img align="right" width="30%" height="10px" src="Images/gray.gif" /></a>
+<a href="#"><img align="right" width="35%" height="10px" src="Images/gray.gif" /></a>
 <a href="#"><img align="right" width="10%" height="10px" src="Images/corner.gif" /></a>
-<a href="#"><img align="left" width="50%" height="10px" src="Images/blank.gif" /></a>
-<a href="#"><img align="right" width="30%" height="10px" src="Images/red2.gif" /></a>
+<a href="#"><img align="left" width="45%" height="10px" src="Images/blank.gif" /></a>
+<a href="#"><img align="right" width="35%" height="10px" src="Images/red2.gif" /></a>
 <a href="#"><img align="right" width="10%" height="10px" src="Images/corner.gif" /></a>
-<a href="#"><img align="left" width="50%" height="10px" src="Images/blank.gif" /></a>
+<a href="#"><img align="left" width="45%" height="10px" src="Images/blank.gif" /></a>
 
 <br />
 

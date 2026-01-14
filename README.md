@@ -2,15 +2,13 @@
 
 <!-- Top lines -->
 
-<a href="#"><img align="right" width="10%" height="20px" src="Images/corner.gif" /></a>
-<a href="#"><img align="left" width="90%" height="10px" src="Images/red.gif" /></a>
-<a href="#"><img align="left" width="90%" height="10px" src="Images/gray.gif" /></a>
+<a href="#">
+    <img align="right" width="10%" height="20px" src="Images/corner.gif" />
+    <img align="left" width="90%" height="10px" src="Images/red.gif" />
+    <img align="left" width="90%" height="10px" src="Images/gray.gif" />
+</a>
 
-<!-- Verticle lines 
-
-<a href="#"><img align="right" width="5%" height="30%" src="Images/SwoopLine_utd.gif" /></a>
-<a href="#"><img align="right" width="5%" height="100px" src="Images/SwoopLine2_utd.gif" /></a>-->
-
+<br />
 
 - I am a Computer Science Honours Graduate
 - I love to program, game and most importantly make games!
@@ -28,16 +26,17 @@
 - 💬 If you have any questions, **feel free to ask me**.
 
 <!-- Middle Lines -->
-<a href="#"><img align="right" width="10%" height="20px" src="Images/corner.gif" /></a>
-<a href="#"><img align="right" width="30%" height="10px" src="Images/gray_rtl.gif" /></a>
-<a href="#"><img align="right" width="10%" height="10px" src="Images/corner.gif" /></a>
-<a href="#"><img align="left" width="50%" height="10px" src="Images/blank.gif" /></a>
-<a href="#"><img align="right" width="30%" height="10px" src="Images/red2_rtl.gif" /></a>
-<a href="#"><img align="right" width="10%" height="10px" src="Images/corner.gif" /></a>
-<a href="#"><img align="left" width="50%" height="10px" src="Images/blank.gif" /></a>
+<a href="#">
+    <img align="right" width="10%" height="20px" src="Images/corner.gif" />
+    <img align="right" width="30%" height="10px" src="Images/gray_rtl.gif" />
+    <img align="right" width="10%" height="10px" src="Images/corner.gif" />
+    <img align="left" width="50%" height="10px" src="Images/blank.gif" />
+    <img align="right" width="30%" height="10px" src="Images/red2_rtl.gif" />
+    <img align="right" width="10%" height="10px" src="Images/corner.gif" />
+    <img align="left" width="50%" height="10px" src="Images/blank.gif" />
+</a>
 
 <br />
-
 
 **💻 Languages Used**
 
@@ -80,13 +79,15 @@
 ![Godot](https://img.shields.io/badge/Godot_Engine-478CBF?style=flat-square&logo=godotengine&logoColor=white)
 
 <!-- Middle Lines -->
-<a href="#"><img align="left" width="10%" height="20px" src="Images/corner.gif" /></a>
-<a href="#"><img align="left" width="30%" height="10px" src="Images/red_rtl.gif" /></a>
-<a href="#"><img align="left" width="10%" height="10px" src="Images/corner.gif" /></a>
-<a href="#"><img align="right" width="50%" height="10px" src="Images/blank.gif" /></a>
-<a href="#"><img align="left" width="30%" height="10px" src="Images/gray_rtl.gif" /></a>
-<a href="#"><img align="left" width="10%" height="10px" src="Images/corner.gif" /></a>
-<a href="#"><img align="right" width="50%" height="10px" src="Images/blank.gif" /></a>
+<a href="#">
+    <img align="left" width="10%" height="20px" src="Images/corner.gif" />
+    <img align="left" width="30%" height="10px" src="Images/red_rtl.gif" />
+    <img align="left" width="10%" height="10px" src="Images/corner.gif" />
+    <img align="right" width="50%" height="10px" src="Images/blank.gif" />
+    <img align="left" width="30%" height="10px" src="Images/gray_rtl.gif" />
+    <img align="left" width="10%" height="10px" src="Images/corner.gif" />
+    <img align="right" width="50%" height="10px" src="Images/blank.gif" />
+</a>
 
 <br />
 
@@ -107,33 +108,49 @@
 
 <blockquote>
 <dl>
-    <dt>More to Populate</dt>
-    <dd>--</dd>
-    <dt></dt>
-    <dd></dd>
-    <dt></dt>
-    <dd></dd>
-    <dt></dt>
-    <dd></dd>
-    <dt></dt>
-    <dd></dd>
-    <dt><i><b>Community Fridge Website</b></i></dt>
-    <dd>Final Assignment - [COMP 2406 Project] <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="16px"/><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white" height="16px"/><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="16px"/><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" height="16px"/></dd>
+    <dt>Wilderness Surival Game</dt>
+    <dd>"In the Thick of it" - [COMP 4900 Group Project] <img alt="GodotEngine" src="https://img.shields.io/badge/Godot_Engine-478CBF?style=flat-square&logo=godotengine&logoColor=white" height="16px"/></dd>
+    <dd><i>Private</i> - <a href="https://jacksonsilver.itch.io/in-the-thick-of-it">Web Version Available</a></dd>
+    <dt>Phishing Identification Game</dt>
+    <dd>"Lost In The Email" - [COMP 4900 Group Project] <img alt="GodotEngine" src="https://img.shields.io/badge/Godot_Engine-478CBF?style=flat-square&logo=godotengine&logoColor=white" height="16px"/></dd>
+    <dd><i>Private</i> - <a href="https://jacksonsilver.itch.io/lost-in-the-email">Web Version Available</a></dd>
+    <dt>Real Time Strategy</dt>
+    <dd>"Antopia" - [COMP 4501 Group Project] <img alt="GodotEngine" src="https://img.shields.io/badge/Godot_Engine-478CBF?style=flat-square&logo=godotengine&logoColor=white" height="16px"/></dd>
+    <dd><i>Private</i> - Not Available</dd>
+    <dt>Competitive multi-agent environment</dt>
+    <dd>"Farmer Vs. Zombie" - [COMP 4010 Group Project] <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="16px"/></dd>
+    <dd><i>Private</i> - Not Available</dd>
+    <dt><i><b>Survival, stealthy 'horror'</b></i></dt>
+    <dd>"The Hungry Man" - [COMP 3501 Group Project] <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" height="16px"/></dd>
+    <dd><i>Public</i> - <a href="https://github.com/gabrielmartell/COMP3501-Project">Repo. Available</a></dd>
+    <dt><i><b>SQL Database</b></i></dt>
+    <dd>"SteamDB Console System" - [COMP 3005 Project] <img alt="Sqlite" src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" height="16px"/></dd>
+    <dd><i>Private</i> - Not Available</dd>
+    <dt><i><b>Heart Rate Variability Device</b></i></dt>
+    <dd>"HeartWave" - [COMP 3004 Group Project] <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" height="16px"/></dd>
+    <dd><i>Private</i> - Not Available</dd>
+    <dt><i><b>Language Compiler</b></i></dt>
+    <dd>"SmallTalk Compiler" - [COMP 3002 Project] <img alt="Smalltalk" src="https://img.shields.io/badge/Smalltalk-6DB33F?style=flat-square&logoColor=white" height="16px"/></dd>
     <dd><i>Private</i> - Not Available</dd>
     <dt><i><b>A motorbike 'Shmup'</b></i></dt>
     <dd>"The Way of Blood" - [COMP 2501 Group Project] <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" height="16px"/></dd>
-    <dd><i>Public</i> - <a href="https://github.com/gabrielmartell/The-Way-Of-Blood">Repo. available</a></dd>
+    <dd><i>Public</i> - <a href="https://github.com/gabrielmartell/The-Way-Of-Blood">Repo. Available</a></dd>
+    <dt><i><b>Community Fridge Website</b></i></dt>
+    <dd>Final Assignment - [COMP 2406 Project] <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="16px"/> <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white" height="16px"/> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="16px"/> <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" height="16px"/> <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" height="16px"/></dd>
+    <dd><i>Private</i> - Not Available</dd> 
 </dl>
 </blockquote>
 
 <!-- Middle Lines -->
-<a href="#"><img align="left" width="10%" height="20px" src="Images/corner.gif" /></a>
-<a href="#"><img align="left" width="30%" height="10px" src="Images/red.gif" /></a>
-<a href="#"><img align="left" width="10%" height="10px" src="Images/corner.gif" /></a>
-<a href="#"><img align="right" width="50%" height="10px" src="Images/blank.gif" /></a>
-<a href="#"><img align="left" width="30%" height="10px" src="Images/gray.gif" /></a>
-<a href="#"><img align="left" width="10%" height="10px" src="Images/corner.gif" /></a>
-<a href="#"><img align="right" width="50%" height="10px" src="Images/blank.gif" /></a>
+<a href="#">
+    <img align="left" width="10%" height="20px" src="Images/corner.gif" />
+    <img align="left" width="30%" height="10px" src="Images/red.gif" />
+    <img align="left" width="10%" height="10px" src="Images/corner.gif" />
+    <img align="right" width="50%" height="10px" src="Images/blank.gif" />
+    <img align="left" width="30%" height="10px" src="Images/gray.gif" />
+    <img align="left" width="10%" height="10px" src="Images/corner.gif" />
+    <img align="right" width="50%" height="10px" src="Images/blank.gif" />
+</a>
 
 <br />
 <br />
@@ -147,24 +164,28 @@
 <br/>
 
 <!-- Middle Lines -->
-<a href="#"><img align="right" width="10%" height="20px" src="Images/corner.gif" /></a>
-<a href="#"><img align="right" width="30%" height="10px" src="Images/gray.gif" /></a>
-<a href="#"><img align="right" width="10%" height="10px" src="Images/corner.gif" /></a>
-<a href="#"><img align="left" width="50%" height="10px" src="Images/blank.gif" /></a>
-<a href="#"><img align="right" width="30%" height="10px" src="Images/red2.gif" /></a>
-<a href="#"><img align="right" width="10%" height="10px" src="Images/corner.gif" /></a>
-<a href="#"><img align="left" width="50%" height="10px" src="Images/blank.gif" /></a>
+<a href="#">
+    <img align="right" width="10%" height="20px" src="Images/corner.gif" />
+    <img align="right" width="30%" height="10px" src="Images/gray.gif" />
+    <img align="right" width="10%" height="10px" src="Images/corner.gif" />
+    <img align="left" width="50%" height="10px" src="Images/blank.gif" />
+    <img align="right" width="30%" height="10px" src="Images/red2.gif" />
+    <img align="right" width="10%" height="10px" src="Images/corner.gif" />
+    <img align="left" width="50%" height="10px" src="Images/blank.gif" />
+</a>
 
 <br />
 
 **Currently Learning**
 
-- <img alt="linkedin" src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white" height="17px"/> : I am hoping to learn this game engine along side what I have already learned through my game development study.
-- <img alt="linkedin" src="https://img.shields.io/badge/Godot_Engine-478CBF?style=flat-square&logo=godotengine&logoColor=white" height="17px"/> : Although I have had experience working in Godot, I will only consider myself completely experienced once I fully release a game made in the engine.
+- <img alt="UnrealEngine" src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white" height="17px"/> : I am hoping to learn this game engine along side what I have already learned through my game development study.
+- <img alt="GodotEngine" src="https://img.shields.io/badge/Godot_Engine-478CBF?style=flat-square&logo=godotengine&logoColor=white" height="17px"/> : Although I have had experience working in Godot, I will only consider myself completely experienced once I fully release a game made in the engine.
 
 <br />
 
 <!-- Bottom lines -->
-<a href="#"><img align="right" width="10%" height="20px" src="Images/corner.gif" /></a>
-<a href="#"><img align="left" width="90%" height="10px" src="Images/gray_rtl.gif" /></a>
-<a href="#"><img align="left" width="90%" height="10px" src="Images/red2_rtl.gif" /></a>
+<a href="#">
+    <img align="right" width="10%" height="20px" src="Images/corner.gif" />
+    <img align="left" width="90%" height="10px" src="Images/gray_rtl.gif" />
+    <img align="left" width="90%" height="10px" src="Images/red2_rtl.gif" />
+</a>

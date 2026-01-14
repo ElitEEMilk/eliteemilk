@@ -12,7 +12,7 @@
 <a href="#"><img align="right" width="5%" height="100px" src="Images/SwoopLine2_utd.gif" /></a>-->
 
 
-- I am a Computer Science Honors Graduate
+- I am a Computer Science Honours Graduate
 - I love to program, game and most importantly make games!
 - I also like to write and hope to complete stories soon.
 - My coding journey began even before I entered highschool.
@@ -92,7 +92,14 @@
 
 **Current Projects**
 
-- 
+<dl style="margin-left: 40px;">
+    <dt><i><b>Mod-iffy</b></i></dt>
+    <dd>GameDev. First Person Roguelike. <img alt="linkedin" src="https://img.shields.io/badge/Godot_Engine-478CBF?style=flat-square&logo=godotengine&logoColor=white" height="13px"/></dd>
+    <dt><i><b>Obscura</b></i></dt>
+    <dd>GameDev. First Person Story. <img alt="linkedin" src="https://img.shields.io/badge/Godot_Engine-478CBF?style=flat-square&logo=godotengine&logoColor=white" height="13px"/></dd>
+    <dt><i>Untitled Project</i></dt>
+    <dd>GameDev. Testing Mechanics. <img alt="linkedin" src="https://img.shields.io/badge/Godot_Engine-478CBF?style=flat-square&logo=godotengine&logoColor=white" height="13px"/></dd>
+</dl>
 
 **Past Projects**
 

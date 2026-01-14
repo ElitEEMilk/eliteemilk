@@ -65,6 +65,7 @@
 ![Intune](https://img.shields.io/badge/Intune-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 ![Assyst](https://img.shields.io/badge/Assyst-4A90E2?style=flat-square)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
 ![MS Admin](https://img.shields.io/badge/MS_Admin_Portal-5E5E5E?style=flat-square&logo=microsoft&logoColor=white)
@@ -117,7 +118,7 @@
     <dt></dt>
     <dd></dd>
     <dt><i><b>Community Fridge Website</b></i></dt>
-    <dd>Final Assignment - [COMP 2406 Project]</dd>
+    <dd>Final Assignment - [COMP 2406 Project] <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="16px"/><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white" height="16px"/><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="16px"/><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" height="16px"/></dd>
     <dd><i>Private</i> - Not Available</dd>
     <dt><i><b>A motorbike 'Shmup'</b></i></dt>
     <dd>"The Way of Blood" - [COMP 2501 Group Project] <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" height="16px"/></dd>

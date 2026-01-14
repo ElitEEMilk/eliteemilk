@@ -118,7 +118,7 @@
     <dd>"The Hungry Man" - [COMP 3501 Group Project] <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" height="16px"/></dd>
     <dd><i>Public</i> - <a href="https://github.com/gabrielmartell/COMP3501-Project">Repo. Available</a></dd>
     <dt>Battleship AI Agent</dt>
-    <dd>"Model Based Agent in a changing battlehship environment" - [COMP 3106 Group Project]</dd>
+    <dd>"Model Based Agent in a changing battlehship environment" - [COMP 3106 Group Project] <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="16px"/></dd>
     <dd><i>Private</i> - Not Available</dd>
     <dt><i><b>SQL Database</b></i></dt>
     <dd>"SteamDB Console System" - [COMP 3005 Project] <img alt="Sqlite" src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" height="16px"/></dd>

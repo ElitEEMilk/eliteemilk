@@ -113,7 +113,7 @@
     <dd><i>Private</i> - Not Available</dd>
     <dt>Competitive multi-agent environment</dt>
     <dd>"Farmer Vs. Zombie" - [COMP 4010 Group Project] <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="16px"/></dd>
-    <dd><i>Private</i> - Not Available</dd>
+    <dd><i>Private</i> - <a href="https://github.com/UzonnaA/COMP-4010-Project">Repo. Available</a></dd>
     <dt><i><b>Survival, stealthy 'horror'</b></i></dt>
     <dd>"The Hungry Man" - [COMP 3501 Group Project] <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" height="16px"/></dd>
     <dd><i>Public</i> - <a href="https://github.com/gabrielmartell/COMP3501-Project">Repo. Available</a></dd>

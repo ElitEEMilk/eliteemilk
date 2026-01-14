@@ -1,6 +1,5 @@
 ### Hello 👋, my name is Nicholas! 
 
-
 <!-- Top lines -->
 
 <a href="#"><img align="right" width="10%" height="20px" src="Images/corner.gif" /></a>
@@ -12,7 +11,8 @@
 <a href="#"><img align="right" width="5%" height="30%" src="Images/SwoopLine_utd.gif" /></a>
 <a href="#"><img align="right" width="5%" height="100px" src="Images/SwoopLine2_utd.gif" /></a>-->
 
-- I am a Computer Science Graduate
+
+- I am a Computer Science Honors Graduate
 - I love to program, game and most importantly make games!
 - I also like to write and hope to complete stories soon.
 - My coding journey began even before I entered highschool.

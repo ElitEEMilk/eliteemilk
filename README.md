@@ -91,6 +91,8 @@
 <dl>
     <dt><i><b>Mod-iffy</b></i></dt>
     <dd>GameDev. First Person Roguelike. <img alt="godotengine" src="https://img.shields.io/badge/Godot_Engine-478CBF?style=flat-square&logo=godotengine&logoColor=white" height="16px"/></dd>
+    <dt><i><b>Unstable Chess</b></i></dt>
+    <dd>GameDev. New Take on Chess. <img alt="godotengine" src="https://img.shields.io/badge/Godot_Engine-478CBF?style=flat-square&logo=godotengine&logoColor=white" height="16px"/></dd>
     <dt><i><b>Obscura</b></i></dt>
     <dd>GameDev. First Person Story. <img alt="godotengine" src="https://img.shields.io/badge/Godot_Engine-478CBF?style=flat-square&logo=godotengine&logoColor=white" height="16px"/></dd>
     <dt><i>Untitled Project</i></dt>
